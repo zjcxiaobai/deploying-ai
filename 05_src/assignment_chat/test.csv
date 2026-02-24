@@ -1,0 +1,201 @@
+id,title,text
+doc0001,Weather & Geography: Note 1,humidity influences how hot or cold it feels geocoding converts city names into latitude and longitude
+doc0002,Weather & Geography: Note 2,weather forecasts include daily high and low temperatures time zones affect how forecast dates are interpreted geocoding converts city names into latitude and longitude Open-Meteo provides free weather data without an API key
+doc0003,Weather & Geography: Note 3,weather forecasts include daily high and low temperatures humidity influences how hot or cold it feels
+doc0004,Weather & Geography: Note 4,wind speed is measured at ten meters above ground level weather forecasts include daily high and low temperatures
+doc0005,Weather & Geography: Note 5,barometric pressure changes indicate storms weather forecasts include daily high and low temperatures
+doc0006,Weather & Geography: Note 6,barometric pressure changes indicate storms geocoding converts city names into latitude and longitude humidity influences how hot or cold it feels climate zones affect long-term temperature patterns
+doc0007,Weather & Geography: Note 7,climate zones affect long-term temperature patterns precipitation probability shows the chance of rain
+doc0008,Weather & Geography: Note 8,precipitation probability shows the chance of rain climate zones affect long-term temperature patterns weather forecasts include daily high and low temperatures
+doc0009,Weather & Geography: Note 9,precipitation probability shows the chance of rain weather forecasts include daily high and low temperatures wind speed is measured at ten meters above ground level barometric pressure changes indicate storms
+doc0010,Weather & Geography: Note 10,weather forecasts include daily high and low temperatures geocoding converts city names into latitude and longitude wind speed is measured at ten meters above ground level satellite data improves weather prediction accuracy
+doc0011,Weather & Geography: Note 11,satellite data improves weather prediction accuracy barometric pressure changes indicate storms time zones affect how forecast dates are interpreted
+doc0012,Weather & Geography: Note 12,precipitation probability shows the chance of rain wind speed is measured at ten meters above ground level
+doc0013,Weather & Geography: Note 13,Open-Meteo provides free weather data without an API key climate zones affect long-term temperature patterns satellite data improves weather prediction accuracy precipitation probability shows the chance of rain
+doc0014,Weather & Geography: Note 14,barometric pressure changes indicate storms weather forecasts include daily high and low temperatures climate zones affect long-term temperature patterns
+doc0015,Weather & Geography: Note 15,time zones affect how forecast dates are interpreted precipitation probability shows the chance of rain
+doc0016,Weather & Geography: Note 16,geocoding converts city names into latitude and longitude weather forecasts include daily high and low temperatures time zones affect how forecast dates are interpreted
+doc0017,Weather & Geography: Note 17,time zones affect how forecast dates are interpreted satellite data improves weather prediction accuracy climate zones affect long-term temperature patterns geocoding converts city names into latitude and longitude
+doc0018,Weather & Geography: Note 18,satellite data improves weather prediction accuracy weather forecasts include daily high and low temperatures geocoding converts city names into latitude and longitude
+doc0019,Weather & Geography: Note 19,barometric pressure changes indicate storms satellite data improves weather prediction accuracy Open-Meteo provides free weather data without an API key time zones affect how forecast dates are interpreted
+doc0020,Weather & Geography: Note 20,time zones affect how forecast dates are interpreted geocoding converts city names into latitude and longitude satellite data improves weather prediction accuracy precipitation probability shows the chance of rain
+doc0021,Weather & Geography: Note 21,weather forecasts include daily high and low temperatures satellite data improves weather prediction accuracy geocoding converts city names into latitude and longitude barometric pressure changes indicate storms
+doc0022,Weather & Geography: Note 22,wind speed is measured at ten meters above ground level humidity influences how hot or cold it feels
+doc0023,Weather & Geography: Note 23,weather forecasts include daily high and low temperatures precipitation probability shows the chance of rain satellite data improves weather prediction accuracy
+doc0024,Weather & Geography: Note 24,Open-Meteo provides free weather data without an API key precipitation probability shows the chance of rain humidity influences how hot or cold it feels satellite data improves weather prediction accuracy
+doc0025,Weather & Geography: Note 25,humidity influences how hot or cold it feels time zones affect how forecast dates are interpreted barometric pressure changes indicate storms weather forecasts include daily high and low temperatures
+doc0026,Weather & Geography: Note 26,precipitation probability shows the chance of rain barometric pressure changes indicate storms
+doc0027,Weather & Geography: Note 27,wind speed is measured at ten meters above ground level geocoding converts city names into latitude and longitude satellite data improves weather prediction accuracy humidity influences how hot or cold it feels
+doc0028,Weather & Geography: Note 28,Open-Meteo provides free weather data without an API key geocoding converts city names into latitude and longitude precipitation probability shows the chance of rain
+doc0029,Weather & Geography: Note 29,time zones affect how forecast dates are interpreted barometric pressure changes indicate storms precipitation probability shows the chance of rain climate zones affect long-term temperature patterns
+doc0030,Weather & Geography: Note 30,climate zones affect long-term temperature patterns humidity influences how hot or cold it feels barometric pressure changes indicate storms
+doc0031,Weather & Geography: Note 31,weather forecasts include daily high and low temperatures satellite data improves weather prediction accuracy humidity influences how hot or cold it feels
+doc0032,Weather & Geography: Note 32,weather forecasts include daily high and low temperatures wind speed is measured at ten meters above ground level
+doc0033,Weather & Geography: Note 33,weather forecasts include daily high and low temperatures time zones affect how forecast dates are interpreted
+doc0034,Weather & Geography: Note 34,geocoding converts city names into latitude and longitude precipitation probability shows the chance of rain
+doc0035,Weather & Geography: Note 35,barometric pressure changes indicate storms geocoding converts city names into latitude and longitude weather forecasts include daily high and low temperatures
+doc0036,Weather & Geography: Note 36,humidity influences how hot or cold it feels precipitation probability shows the chance of rain Open-Meteo provides free weather data without an API key climate zones affect long-term temperature patterns
+doc0037,Weather & Geography: Note 37,weather forecasts include daily high and low temperatures barometric pressure changes indicate storms satellite data improves weather prediction accuracy
+doc0038,Weather & Geography: Note 38,satellite data improves weather prediction accuracy Open-Meteo provides free weather data without an API key weather forecasts include daily high and low temperatures
+doc0039,Weather & Geography: Note 39,time zones affect how forecast dates are interpreted Open-Meteo provides free weather data without an API key
+doc0040,Weather & Geography: Note 40,precipitation probability shows the chance of rain climate zones affect long-term temperature patterns geocoding converts city names into latitude and longitude weather forecasts include daily high and low temperatures
+doc0041,Weather & Geography: Note 41,climate zones affect long-term temperature patterns geocoding converts city names into latitude and longitude
+doc0042,Weather & Geography: Note 42,weather forecasts include daily high and low temperatures Open-Meteo provides free weather data without an API key time zones affect how forecast dates are interpreted barometric pressure changes indicate storms
+doc0043,Weather & Geography: Note 43,climate zones affect long-term temperature patterns barometric pressure changes indicate storms
+doc0044,Weather & Geography: Note 44,wind speed is measured at ten meters above ground level barometric pressure changes indicate storms climate zones affect long-term temperature patterns humidity influences how hot or cold it feels
+doc0045,Weather & Geography: Note 45,wind speed is measured at ten meters above ground level barometric pressure changes indicate storms satellite data improves weather prediction accuracy precipitation probability shows the chance of rain
+doc0046,Weather & Geography: Note 46,Open-Meteo provides free weather data without an API key satellite data improves weather prediction accuracy
+doc0047,Weather & Geography: Note 47,barometric pressure changes indicate storms time zones affect how forecast dates are interpreted
+doc0048,Weather & Geography: Note 48,time zones affect how forecast dates are interpreted barometric pressure changes indicate storms weather forecasts include daily high and low temperatures satellite data improves weather prediction accuracy
+doc0049,Weather & Geography: Note 49,satellite data improves weather prediction accuracy wind speed is measured at ten meters above ground level
+doc0050,Weather & Geography: Note 50,satellite data improves weather prediction accuracy geocoding converts city names into latitude and longitude
+doc0051,Weather & Geography: Note 51,time zones affect how forecast dates are interpreted weather forecasts include daily high and low temperatures climate zones affect long-term temperature patterns wind speed is measured at ten meters above ground level
+doc0052,Weather & Geography: Note 52,precipitation probability shows the chance of rain humidity influences how hot or cold it feels time zones affect how forecast dates are interpreted
+doc0053,Weather & Geography: Note 53,humidity influences how hot or cold it feels satellite data improves weather prediction accuracy barometric pressure changes indicate storms time zones affect how forecast dates are interpreted
+doc0054,Weather & Geography: Note 54,precipitation probability shows the chance of rain barometric pressure changes indicate storms climate zones affect long-term temperature patterns geocoding converts city names into latitude and longitude
+doc0055,Weather & Geography: Note 55,satellite data improves weather prediction accuracy precipitation probability shows the chance of rain barometric pressure changes indicate storms time zones affect how forecast dates are interpreted
+doc0056,Weather & Geography: Note 56,climate zones affect long-term temperature patterns barometric pressure changes indicate storms
+doc0057,Weather & Geography: Note 57,geocoding converts city names into latitude and longitude weather forecasts include daily high and low temperatures
+doc0058,Weather & Geography: Note 58,wind speed is measured at ten meters above ground level barometric pressure changes indicate storms geocoding converts city names into latitude and longitude
+doc0059,Weather & Geography: Note 59,Open-Meteo provides free weather data without an API key climate zones affect long-term temperature patterns
+doc0060,Weather & Geography: Note 60,time zones affect how forecast dates are interpreted Open-Meteo provides free weather data without an API key humidity influences how hot or cold it feels satellite data improves weather prediction accuracy
+doc0061,Weather & Geography: Note 61,time zones affect how forecast dates are interpreted satellite data improves weather prediction accuracy
+doc0062,Weather & Geography: Note 62,precipitation probability shows the chance of rain climate zones affect long-term temperature patterns barometric pressure changes indicate storms Open-Meteo provides free weather data without an API key
+doc0063,Weather & Geography: Note 63,precipitation probability shows the chance of rain geocoding converts city names into latitude and longitude barometric pressure changes indicate storms
+doc0064,Weather & Geography: Note 64,satellite data improves weather prediction accuracy weather forecasts include daily high and low temperatures
+doc0065,Weather & Geography: Note 65,climate zones affect long-term temperature patterns barometric pressure changes indicate storms satellite data improves weather prediction accuracy
+doc0066,Weather & Geography: Note 66,geocoding converts city names into latitude and longitude wind speed is measured at ten meters above ground level climate zones affect long-term temperature patterns precipitation probability shows the chance of rain
+doc0067,Weather & Geography: Note 67,climate zones affect long-term temperature patterns satellite data improves weather prediction accuracy
+doc0068,Weather & Geography: Note 68,satellite data improves weather prediction accuracy time zones affect how forecast dates are interpreted
+doc0069,Weather & Geography: Note 69,Open-Meteo provides free weather data without an API key satellite data improves weather prediction accuracy climate zones affect long-term temperature patterns barometric pressure changes indicate storms
+doc0070,Weather & Geography: Note 70,climate zones affect long-term temperature patterns Open-Meteo provides free weather data without an API key wind speed is measured at ten meters above ground level humidity influences how hot or cold it feels
+doc0071,Weather & Geography: Note 71,humidity influences how hot or cold it feels weather forecasts include daily high and low temperatures
+doc0072,Weather & Geography: Note 72,time zones affect how forecast dates are interpreted weather forecasts include daily high and low temperatures wind speed is measured at ten meters above ground level
+doc0073,Weather & Geography: Note 73,wind speed is measured at ten meters above ground level Open-Meteo provides free weather data without an API key
+doc0074,Weather & Geography: Note 74,time zones affect how forecast dates are interpreted precipitation probability shows the chance of rain
+doc0075,Weather & Geography: Note 75,satellite data improves weather prediction accuracy wind speed is measured at ten meters above ground level
+doc0076,Weather & Geography: Note 76,satellite data improves weather prediction accuracy precipitation probability shows the chance of rain wind speed is measured at ten meters above ground level
+doc0077,Weather & Geography: Note 77,humidity influences how hot or cold it feels climate zones affect long-term temperature patterns barometric pressure changes indicate storms precipitation probability shows the chance of rain
+doc0078,Weather & Geography: Note 78,time zones affect how forecast dates are interpreted barometric pressure changes indicate storms
+doc0079,Weather & Geography: Note 79,time zones affect how forecast dates are interpreted geocoding converts city names into latitude and longitude barometric pressure changes indicate storms Open-Meteo provides free weather data without an API key
+doc0080,Weather & Geography: Note 80,geocoding converts city names into latitude and longitude humidity influences how hot or cold it feels time zones affect how forecast dates are interpreted
+doc0081,Weather & Geography: Note 81,weather forecasts include daily high and low temperatures barometric pressure changes indicate storms wind speed is measured at ten meters above ground level geocoding converts city names into latitude and longitude
+doc0082,Weather & Geography: Note 82,Open-Meteo provides free weather data without an API key geocoding converts city names into latitude and longitude precipitation probability shows the chance of rain
+doc0083,Weather & Geography: Note 83,humidity influences how hot or cold it feels Open-Meteo provides free weather data without an API key
+doc0084,Weather & Geography: Note 84,climate zones affect long-term temperature patterns barometric pressure changes indicate storms
+doc0085,Weather & Geography: Note 85,time zones affect how forecast dates are interpreted weather forecasts include daily high and low temperatures Open-Meteo provides free weather data without an API key geocoding converts city names into latitude and longitude
+doc0086,Weather & Geography: Note 86,weather forecasts include daily high and low temperatures Open-Meteo provides free weather data without an API key geocoding converts city names into latitude and longitude
+doc0087,Weather & Geography: Note 87,weather forecasts include daily high and low temperatures wind speed is measured at ten meters above ground level barometric pressure changes indicate storms
+doc0088,Weather & Geography: Note 88,satellite data improves weather prediction accuracy geocoding converts city names into latitude and longitude
+doc0089,Weather & Geography: Note 89,humidity influences how hot or cold it feels Open-Meteo provides free weather data without an API key precipitation probability shows the chance of rain geocoding converts city names into latitude and longitude
+doc0090,Weather & Geography: Note 90,precipitation probability shows the chance of rain Open-Meteo provides free weather data without an API key
+doc0091,Weather & Geography: Note 91,wind speed is measured at ten meters above ground level Open-Meteo provides free weather data without an API key
+doc0092,Weather & Geography: Note 92,wind speed is measured at ten meters above ground level Open-Meteo provides free weather data without an API key satellite data improves weather prediction accuracy climate zones affect long-term temperature patterns
+doc0093,Weather & Geography: Note 93,time zones affect how forecast dates are interpreted geocoding converts city names into latitude and longitude Open-Meteo provides free weather data without an API key
+doc0094,Weather & Geography: Note 94,geocoding converts city names into latitude and longitude climate zones affect long-term temperature patterns
+doc0095,Weather & Geography: Note 95,satellite data improves weather prediction accuracy wind speed is measured at ten meters above ground level barometric pressure changes indicate storms geocoding converts city names into latitude and longitude
+doc0096,Weather & Geography: Note 96,satellite data improves weather prediction accuracy climate zones affect long-term temperature patterns humidity influences how hot or cold it feels Open-Meteo provides free weather data without an API key
+doc0097,Weather & Geography: Note 97,wind speed is measured at ten meters above ground level barometric pressure changes indicate storms time zones affect how forecast dates are interpreted weather forecasts include daily high and low temperatures
+doc0098,Weather & Geography: Note 98,time zones affect how forecast dates are interpreted geocoding converts city names into latitude and longitude precipitation probability shows the chance of rain
+doc0099,Weather & Geography: Note 99,Open-Meteo provides free weather data without an API key humidity influences how hot or cold it feels
+doc0100,Weather & Geography: Note 100,weather forecasts include daily high and low temperatures humidity influences how hot or cold it feels
+doc0101,Weather & Geography: Note 101,wind speed is measured at ten meters above ground level Open-Meteo provides free weather data without an API key geocoding converts city names into latitude and longitude barometric pressure changes indicate storms
+doc0102,Weather & Geography: Note 102,Open-Meteo provides free weather data without an API key satellite data improves weather prediction accuracy
+doc0103,Weather & Geography: Note 103,time zones affect how forecast dates are interpreted barometric pressure changes indicate storms climate zones affect long-term temperature patterns
+doc0104,Weather & Geography: Note 104,Open-Meteo provides free weather data without an API key wind speed is measured at ten meters above ground level
+doc0105,Weather & Geography: Note 105,geocoding converts city names into latitude and longitude time zones affect how forecast dates are interpreted
+doc0106,Weather & Geography: Note 106,satellite data improves weather prediction accuracy Open-Meteo provides free weather data without an API key
+doc0107,Weather & Geography: Note 107,climate zones affect long-term temperature patterns geocoding converts city names into latitude and longitude
+doc0108,Weather & Geography: Note 108,weather forecasts include daily high and low temperatures precipitation probability shows the chance of rain humidity influences how hot or cold it feels
+doc0109,Weather & Geography: Note 109,geocoding converts city names into latitude and longitude Open-Meteo provides free weather data without an API key climate zones affect long-term temperature patterns
+doc0110,Weather & Geography: Note 110,barometric pressure changes indicate storms climate zones affect long-term temperature patterns
+doc0111,Weather & Geography: Note 111,barometric pressure changes indicate storms humidity influences how hot or cold it feels time zones affect how forecast dates are interpreted satellite data improves weather prediction accuracy
+doc0112,Weather & Geography: Note 112,Open-Meteo provides free weather data without an API key precipitation probability shows the chance of rain
+doc0113,Weather & Geography: Note 113,climate zones affect long-term temperature patterns humidity influences how hot or cold it feels precipitation probability shows the chance of rain Open-Meteo provides free weather data without an API key
+doc0114,Weather & Geography: Note 114,barometric pressure changes indicate storms wind speed is measured at ten meters above ground level weather forecasts include daily high and low temperatures geocoding converts city names into latitude and longitude
+doc0115,Weather & Geography: Note 115,time zones affect how forecast dates are interpreted weather forecasts include daily high and low temperatures
+doc0116,Weather & Geography: Note 116,climate zones affect long-term temperature patterns geocoding converts city names into latitude and longitude barometric pressure changes indicate storms
+doc0117,Weather & Geography: Note 117,Open-Meteo provides free weather data without an API key geocoding converts city names into latitude and longitude satellite data improves weather prediction accuracy
+doc0118,Weather & Geography: Note 118,climate zones affect long-term temperature patterns barometric pressure changes indicate storms weather forecasts include daily high and low temperatures time zones affect how forecast dates are interpreted
+doc0119,Weather & Geography: Note 119,satellite data improves weather prediction accuracy Open-Meteo provides free weather data without an API key weather forecasts include daily high and low temperatures humidity influences how hot or cold it feels
+doc0120,Weather & Geography: Note 120,wind speed is measured at ten meters above ground level barometric pressure changes indicate storms
+doc0121,Weather & Geography: Note 121,humidity influences how hot or cold it feels weather forecasts include daily high and low temperatures satellite data improves weather prediction accuracy
+doc0122,Weather & Geography: Note 122,barometric pressure changes indicate storms wind speed is measured at ten meters above ground level
+doc0123,Weather & Geography: Note 123,precipitation probability shows the chance of rain time zones affect how forecast dates are interpreted Open-Meteo provides free weather data without an API key climate zones affect long-term temperature patterns
+doc0124,Weather & Geography: Note 124,barometric pressure changes indicate storms precipitation probability shows the chance of rain geocoding converts city names into latitude and longitude wind speed is measured at ten meters above ground level
+doc0125,Weather & Geography: Note 125,Open-Meteo provides free weather data without an API key weather forecasts include daily high and low temperatures wind speed is measured at ten meters above ground level
+doc0126,Weather & Geography: Note 126,climate zones affect long-term temperature patterns Open-Meteo provides free weather data without an API key satellite data improves weather prediction accuracy
+doc0127,Weather & Geography: Note 127,weather forecasts include daily high and low temperatures climate zones affect long-term temperature patterns wind speed is measured at ten meters above ground level
+doc0128,Weather & Geography: Note 128,satellite data improves weather prediction accuracy geocoding converts city names into latitude and longitude
+doc0129,Weather & Geography: Note 129,weather forecasts include daily high and low temperatures climate zones affect long-term temperature patterns satellite data improves weather prediction accuracy
+doc0130,Weather & Geography: Note 130,wind speed is measured at ten meters above ground level barometric pressure changes indicate storms weather forecasts include daily high and low temperatures
+doc0131,Weather & Geography: Note 131,climate zones affect long-term temperature patterns Open-Meteo provides free weather data without an API key
+doc0132,Weather & Geography: Note 132,barometric pressure changes indicate storms climate zones affect long-term temperature patterns
+doc0133,Weather & Geography: Note 133,time zones affect how forecast dates are interpreted wind speed is measured at ten meters above ground level
+doc0134,Weather & Geography: Note 134,humidity influences how hot or cold it feels geocoding converts city names into latitude and longitude precipitation probability shows the chance of rain
+doc0135,Weather & Geography: Note 135,satellite data improves weather prediction accuracy humidity influences how hot or cold it feels Open-Meteo provides free weather data without an API key
+doc0136,Weather & Geography: Note 136,time zones affect how forecast dates are interpreted humidity influences how hot or cold it feels barometric pressure changes indicate storms
+doc0137,Weather & Geography: Note 137,geocoding converts city names into latitude and longitude time zones affect how forecast dates are interpreted climate zones affect long-term temperature patterns
+doc0138,Weather & Geography: Note 138,wind speed is measured at ten meters above ground level geocoding converts city names into latitude and longitude
+doc0139,Weather & Geography: Note 139,time zones affect how forecast dates are interpreted weather forecasts include daily high and low temperatures humidity influences how hot or cold it feels
+doc0140,Weather & Geography: Note 140,weather forecasts include daily high and low temperatures time zones affect how forecast dates are interpreted humidity influences how hot or cold it feels satellite data improves weather prediction accuracy
+doc0141,Weather & Geography: Note 141,Open-Meteo provides free weather data without an API key weather forecasts include daily high and low temperatures
+doc0142,Weather & Geography: Note 142,Open-Meteo provides free weather data without an API key precipitation probability shows the chance of rain wind speed is measured at ten meters above ground level climate zones affect long-term temperature patterns
+doc0143,Weather & Geography: Note 143,time zones affect how forecast dates are interpreted wind speed is measured at ten meters above ground level barometric pressure changes indicate storms humidity influences how hot or cold it feels
+doc0144,Weather & Geography: Note 144,humidity influences how hot or cold it feels climate zones affect long-term temperature patterns
+doc0145,Weather & Geography: Note 145,weather forecasts include daily high and low temperatures geocoding converts city names into latitude and longitude humidity influences how hot or cold it feels wind speed is measured at ten meters above ground level
+doc0146,Weather & Geography: Note 146,Open-Meteo provides free weather data without an API key satellite data improves weather prediction accuracy geocoding converts city names into latitude and longitude barometric pressure changes indicate storms
+doc0147,Weather & Geography: Note 147,satellite data improves weather prediction accuracy humidity influences how hot or cold it feels
+doc0148,Weather & Geography: Note 148,Open-Meteo provides free weather data without an API key barometric pressure changes indicate storms climate zones affect long-term temperature patterns
+doc0149,Weather & Geography: Note 149,wind speed is measured at ten meters above ground level Open-Meteo provides free weather data without an API key satellite data improves weather prediction accuracy climate zones affect long-term temperature patterns
+doc0150,Weather & Geography: Note 150,precipitation probability shows the chance of rain barometric pressure changes indicate storms
+doc0151,Weather & Geography: Note 151,climate zones affect long-term temperature patterns satellite data improves weather prediction accuracy
+doc0152,Weather & Geography: Note 152,time zones affect how forecast dates are interpreted satellite data improves weather prediction accuracy humidity influences how hot or cold it feels
+doc0153,Weather & Geography: Note 153,wind speed is measured at ten meters above ground level barometric pressure changes indicate storms weather forecasts include daily high and low temperatures satellite data improves weather prediction accuracy
+doc0154,Weather & Geography: Note 154,weather forecasts include daily high and low temperatures time zones affect how forecast dates are interpreted wind speed is measured at ten meters above ground level precipitation probability shows the chance of rain
+doc0155,Weather & Geography: Note 155,wind speed is measured at ten meters above ground level geocoding converts city names into latitude and longitude humidity influences how hot or cold it feels barometric pressure changes indicate storms
+doc0156,Weather & Geography: Note 156,climate zones affect long-term temperature patterns wind speed is measured at ten meters above ground level humidity influences how hot or cold it feels precipitation probability shows the chance of rain
+doc0157,Weather & Geography: Note 157,satellite data improves weather prediction accuracy Open-Meteo provides free weather data without an API key
+doc0158,Weather & Geography: Note 158,climate zones affect long-term temperature patterns barometric pressure changes indicate storms
+doc0159,Weather & Geography: Note 159,Open-Meteo provides free weather data without an API key wind speed is measured at ten meters above ground level
+doc0160,Weather & Geography: Note 160,satellite data improves weather prediction accuracy humidity influences how hot or cold it feels Open-Meteo provides free weather data without an API key
+doc0161,Weather & Geography: Note 161,geocoding converts city names into latitude and longitude humidity influences how hot or cold it feels
+doc0162,Weather & Geography: Note 162,satellite data improves weather prediction accuracy geocoding converts city names into latitude and longitude weather forecasts include daily high and low temperatures wind speed is measured at ten meters above ground level
+doc0163,Weather & Geography: Note 163,wind speed is measured at ten meters above ground level weather forecasts include daily high and low temperatures barometric pressure changes indicate storms
+doc0164,Weather & Geography: Note 164,climate zones affect long-term temperature patterns weather forecasts include daily high and low temperatures
+doc0165,Weather & Geography: Note 165,climate zones affect long-term temperature patterns geocoding converts city names into latitude and longitude
+doc0166,Weather & Geography: Note 166,wind speed is measured at ten meters above ground level geocoding converts city names into latitude and longitude
+doc0167,Weather & Geography: Note 167,Open-Meteo provides free weather data without an API key climate zones affect long-term temperature patterns
+doc0168,Weather & Geography: Note 168,weather forecasts include daily high and low temperatures barometric pressure changes indicate storms climate zones affect long-term temperature patterns precipitation probability shows the chance of rain
+doc0169,Weather & Geography: Note 169,Open-Meteo provides free weather data without an API key wind speed is measured at ten meters above ground level geocoding converts city names into latitude and longitude
+doc0170,Weather & Geography: Note 170,Open-Meteo provides free weather data without an API key satellite data improves weather prediction accuracy barometric pressure changes indicate storms precipitation probability shows the chance of rain
+doc0171,Weather & Geography: Note 171,climate zones affect long-term temperature patterns wind speed is measured at ten meters above ground level barometric pressure changes indicate storms
+doc0172,Weather & Geography: Note 172,Open-Meteo provides free weather data without an API key geocoding converts city names into latitude and longitude climate zones affect long-term temperature patterns
+doc0173,Weather & Geography: Note 173,humidity influences how hot or cold it feels weather forecasts include daily high and low temperatures Open-Meteo provides free weather data without an API key
+doc0174,Weather & Geography: Note 174,humidity influences how hot or cold it feels time zones affect how forecast dates are interpreted wind speed is measured at ten meters above ground level satellite data improves weather prediction accuracy
+doc0175,Weather & Geography: Note 175,time zones affect how forecast dates are interpreted humidity influences how hot or cold it feels barometric pressure changes indicate storms satellite data improves weather prediction accuracy
+doc0176,Weather & Geography: Note 176,geocoding converts city names into latitude and longitude Open-Meteo provides free weather data without an API key
+doc0177,Weather & Geography: Note 177,satellite data improves weather prediction accuracy wind speed is measured at ten meters above ground level
+doc0178,Weather & Geography: Note 178,wind speed is measured at ten meters above ground level satellite data improves weather prediction accuracy
+doc0179,Weather & Geography: Note 179,Open-Meteo provides free weather data without an API key weather forecasts include daily high and low temperatures satellite data improves weather prediction accuracy
+doc0180,Weather & Geography: Note 180,satellite data improves weather prediction accuracy humidity influences how hot or cold it feels
+doc0181,Weather & Geography: Note 181,precipitation probability shows the chance of rain humidity influences how hot or cold it feels geocoding converts city names into latitude and longitude weather forecasts include daily high and low temperatures
+doc0182,Weather & Geography: Note 182,precipitation probability shows the chance of rain humidity influences how hot or cold it feels geocoding converts city names into latitude and longitude time zones affect how forecast dates are interpreted
+doc0183,Weather & Geography: Note 183,humidity influences how hot or cold it feels satellite data improves weather prediction accuracy
+doc0184,Weather & Geography: Note 184,weather forecasts include daily high and low temperatures barometric pressure changes indicate storms precipitation probability shows the chance of rain satellite data improves weather prediction accuracy
+doc0185,Weather & Geography: Note 185,climate zones affect long-term temperature patterns satellite data improves weather prediction accuracy
+doc0186,Weather & Geography: Note 186,humidity influences how hot or cold it feels time zones affect how forecast dates are interpreted climate zones affect long-term temperature patterns
+doc0187,Weather & Geography: Note 187,weather forecasts include daily high and low temperatures geocoding converts city names into latitude and longitude
+doc0188,Weather & Geography: Note 188,weather forecasts include daily high and low temperatures time zones affect how forecast dates are interpreted humidity influences how hot or cold it feels
+doc0189,Weather & Geography: Note 189,wind speed is measured at ten meters above ground level humidity influences how hot or cold it feels time zones affect how forecast dates are interpreted climate zones affect long-term temperature patterns
+doc0190,Weather & Geography: Note 190,weather forecasts include daily high and low temperatures geocoding converts city names into latitude and longitude satellite data improves weather prediction accuracy
+doc0191,Weather & Geography: Note 191,climate zones affect long-term temperature patterns satellite data improves weather prediction accuracy wind speed is measured at ten meters above ground level
+doc0192,Weather & Geography: Note 192,satellite data improves weather prediction accuracy geocoding converts city names into latitude and longitude humidity influences how hot or cold it feels
+doc0193,Weather & Geography: Note 193,humidity influences how hot or cold it feels geocoding converts city names into latitude and longitude barometric pressure changes indicate storms climate zones affect long-term temperature patterns
+doc0194,Weather & Geography: Note 194,geocoding converts city names into latitude and longitude Open-Meteo provides free weather data without an API key
+doc0195,Weather & Geography: Note 195,weather forecasts include daily high and low temperatures time zones affect how forecast dates are interpreted climate zones affect long-term temperature patterns precipitation probability shows the chance of rain
+doc0196,Weather & Geography: Note 196,geocoding converts city names into latitude and longitude Open-Meteo provides free weather data without an API key time zones affect how forecast dates are interpreted precipitation probability shows the chance of rain
+doc0197,Weather & Geography: Note 197,barometric pressure changes indicate storms weather forecasts include daily high and low temperatures
+doc0198,Weather & Geography: Note 198,weather forecasts include daily high and low temperatures satellite data improves weather prediction accuracy
+doc0199,Weather & Geography: Note 199,Open-Meteo provides free weather data without an API key humidity influences how hot or cold it feels satellite data improves weather prediction accuracy
+doc0200,Weather & Geography: Note 200,precipitation probability shows the chance of rain geocoding converts city names into latitude and longitude Open-Meteo provides free weather data without an API key
